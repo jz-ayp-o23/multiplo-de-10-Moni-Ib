@@ -7,7 +7,7 @@ Inserta el encabezado aquí y escribe tu código abajo
 CONSTANTE = 10
 
 # Entradas
-entrada = float(input("Introduzca un número: "))
+entrada = int(input("Introduzca un número: "))
 
 # Proceso
 if entrada % CONSTANTE == 0:
